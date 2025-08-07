@@ -1,7 +1,7 @@
 # voidlinux-televsion-template
-television 0.12.5 A cross-platform, fast and extensible general purpose fuzzy finder
+television A cross-platform, fast and extensible general purpose fuzzy finder
 
-version v0.12.5
+version v0.13.2
 
 ![television](/assets/images/tv-transparent.png)
 
